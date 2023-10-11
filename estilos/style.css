@@ -34,7 +34,7 @@ body{
 }
 .card{
     background-color: var(--card-background);
-    height: 700px;
+    height: 660px;
     width: 300px;
     border-radius: 15px;
 
@@ -90,7 +90,7 @@ strong{
     padding: 20px;
     color: var(--main-heading-stats);
     text-align: center;
-    height: 30%;
+    height: 180px;
     font-family: var(--inter);
     
 }
